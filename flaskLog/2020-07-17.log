@@ -1,0 +1,3 @@
+2020-07-17 16:34:35,206 - run - ERROR - Got exception during processing: local variable 'regfile' referenced before assignment
+2020-07-17 16:34:35,206 - run - ERROR - Got exception during processing: local variable 'regfile' referenced before assignment
+2020-07-17 16:34:35,207 - run - ERROR - Got exception during processing: local variable 'regfile' referenced before assignment
